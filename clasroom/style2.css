@@ -1,0 +1,24 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    text-decoration: dashed;
+    text-transform:capitalize;
+}
+p{
+    color:rgba(255, 0, 0, 0.973);
+    text-transform:uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0cqi;
+    line-height: 25px;
+}
+#outer{
+    font-size: 25px;
+    font-weight: 100px;
+    text-decoration:double;
+}
+#inner{
+    font-size:10px;
+    
+}

@@ -1,0 +1,15 @@
+.loader{
+    width:100px;
+    height:100px;
+    /* background-color: aquamarine; */
+    border:10px solid blue;
+    border-top:10px solid black;
+    border-radius: 50%;
+    animation:animate 0.5s ease-in 0s infinite normal;
+    /* animation-duration:infinite; */
+}
+@keyframes animate {
+    from{transform:rotate(0deg);}
+    to{transform:rotate(360deg);}
+    
+}

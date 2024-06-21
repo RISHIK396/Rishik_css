@@ -1,0 +1,36 @@
+h1{
+    color:red;
+    text-align: center;
+    text-decoration:underline dotted;
+}
+a{
+    text-decoration:none;
+    font-size:28px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: black;
+}
+#green{
+    text-decoration:green wavy underline;
+    text-align: right;
+}
+p{
+    line-height: 23px;
+    text-transform: capitalize;
+    color:burlywood;
+    font-size:25px;
+
+}
+#outer{
+    text-align:center;
+    text-transform:uppercase;
+    text-decoration:underline dotted;
+    font-size:21px;
+}
+#inner{
+    text-align:left;
+    text-decoration:red wavy underline;
+    background-color:beige;
+    font-size: small;
+    font-weight:bolder;
+}

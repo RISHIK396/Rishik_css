@@ -1,0 +1,28 @@
+H1{
+    COLOR:RED;
+    font: weight 100px;
+}
+BODY{
+    BACKGROUND-COLOR:black ;
+}
+p{
+    background-color:#ff00ff;
+    color:rgb(255,255, 0);
+}
+h2{
+    color:black;
+}
+*{
+    margin: 0;
+    padding:0;
+}
+button{
+    background-color: darkgoldenrod;
+    color:blue
+}
+#this{
+    color:white;
+}
+.red{
+    color:aqua;
+}

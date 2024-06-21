@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+    width:200px;
+    background-image:url("SPIDER\ MAN.jpeg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: fixed;
+    bottom:0;
+    right:0px;
+    background: 5px solid black;
+}
+p{
+    background-color: beige;
+}

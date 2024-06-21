@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color:white;
+}
+#navbar{
+    background-color:#0f1111;
+    height:60px;
+}
+a{
+    text-transform: capitalize;
+    margin: 50px;
+    text-align: center;
+    margin-left: 200px;
+    font-size:medium
+}
+div{
+    text-align: left;
+    color:#f08804;
+    font-size:25px;
+    border:5px solid white;
+}
+button{
+    color:black;
+    background-color:orange;
+
+}
