@@ -1,0 +1,38 @@
+div{
+    background-color: aqua;
+    border:3px solid black;
+    display:inline-block;
+    width:100px;
+    height:100px;
+
+}
+
+#box1{
+    /* it means the position will not change as by default all the elements are static */
+    position:static;
+    top:100px;
+    left:100px;
+    background-color: red;
+}
+#box2{
+    /* in this the elements will move relative to their own position at present */
+    position: sticky;
+    top:0px;
+    background-color: green;
+}
+#box3{
+    /* in this the element will move relative to the closesetparent 
+    in this case the box 3 parent is browser only */
+    position:absolute;
+    top:150px;
+    left:20px;
+    z-index:-3;
+    background-color:orange;
+}
+
+#box4{
+    /* will always remain fixed at a position and position set according to then browser */
+    position:fixed;
+    top:0px;
+    width:100vw;
+}
