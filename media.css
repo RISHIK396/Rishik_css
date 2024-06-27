@@ -1,0 +1,29 @@
+div{
+    background-color: pink;
+    width:100px;
+    height:100px;
+}
+
+@media (width:600){
+    div{
+        background-color: red;
+    }
+}
+
+@media (max-width:600px){
+    div{
+        background-color:green;
+    }
+}
+
+@media(min-width:700px){
+    div{
+        background-color:blue;
+    }
+}
+
+@media(min-width:100px)and(max-width:400px){
+    div{
+        background-color: aqua;
+    }
+}
