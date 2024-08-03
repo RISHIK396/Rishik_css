@@ -1,0 +1,18 @@
+h1{
+    color:rgb(91, 53, 133);
+    background-color: rgba(0, 0, 0, 0.989);
+    font-weight:bolder;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(157, 21, 187, 0.744);
+}
+
+button{
+    background-color: rgba(228, 228, 188, 0.863);
+    color:brown;
+    font-weight:bolder;
+    border:3px solid black;
+    border-radius: 10px;
+}
